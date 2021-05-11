@@ -2,6 +2,11 @@
 Transformer based Neural Machine Translation Prototype
 
 
+Colab Notebook
+---------------
+https://colab.research.google.com/drive/1st6RNa2_jgH3YhPsMkJndAVH19-2pN29?usp=sharing
+
+
 Citation
 --------
 
